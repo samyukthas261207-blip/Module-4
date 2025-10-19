@@ -24,3 +24,5 @@ print("Number of lines not starting with 'T':", count)
 ## Output
 
 ## Result
+Thus the program is executed successfully.
+
