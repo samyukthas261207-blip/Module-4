@@ -12,9 +12,12 @@ To write a Python program that handles an **IndexError** when trying to access a
 
 ## 🧾 Program
 list1=[1,2,3]
+
 try:
+
     print(list1[5])
 except IndexError:
+
     print("You're out of list range")
 
 ## Output
