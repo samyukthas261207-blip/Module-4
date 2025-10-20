@@ -27,6 +27,8 @@ obj=cse(r)
 obj.mech()
 
 ## Output
+<img width="1080" height="458" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/6fc50fc7-7d23-446f-9e07-a8ff28eea3fc" />
+
 
 ## Result
 Thus the program is executed successfully.
