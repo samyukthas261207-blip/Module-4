@@ -21,6 +21,7 @@ except IndexError:
     print("You're out of list range")
 
 ## Output
+<img width="1095" height="427" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/f1862a7b-d454-4435-88de-3b2d40ca05ef" />
 
 ## Result
 Thus the program is executed successfully.
