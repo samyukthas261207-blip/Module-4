@@ -22,6 +22,7 @@ with open('story.txt', 'r') as file:
 print("Number of lines not starting with 'T':", count)
 
 ## Output
+<img width="1149" height="123" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/69fcf300-c2d3-4b5c-bd06-ead291686d65" />
 
 ## Result
 Thus the program is executed successfully.
