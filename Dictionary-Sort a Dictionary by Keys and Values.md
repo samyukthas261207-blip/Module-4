@@ -41,6 +41,7 @@ for key, value in sort.items():
     print(f"({key}, {value}) ",end="")
 
 ## Sample Output
+<img width="1138" height="224" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/231ebd30-c2e1-4278-be7b-edcd60c2d6e4" />
 
 ## Result
 Thus the program is executed successfully.
